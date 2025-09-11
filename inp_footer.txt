@@ -1,0 +1,9 @@
+*End Part
+**
+** ASSEMBLY
+**
+*Assembly, name=Assembly
+*Instance, name=Part1, part=Part1
+*End Instance
+**
+*End Assembly
